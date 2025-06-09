@@ -1,0 +1,94 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Wazir",
+      "posterUrl": "https://media.themoviedb.org/t/p/original/wo5ASV73rrLr9z22P4nfqwPQPRA.jpg",
+      "description": "'Wazir' is a tale of two unlikely friends, a wheelchair-bound chess grandmaster and a brave ATS officer. Brought together by grief and a strange twist of fate, the two men decide to help each other win the biggest games of their lives. But there's a mysterious, dangerous opponent lurking in the shadows, who is all set to checkmate them",
+      "rating": 9.3,
+      "duration": "2h 22min",
+      "genre": "Thriller, Action, Crime",
+      "releaseDate": "2016-06-01"
+    },
+    {
+      "id": "2",
+      "title": "Sikandar",
+      "posterUrl": "https://media.themoviedb.org/t/p/original/t48miSSfe7COqgbgMyRIyPVTBoM.jpg",
+      "description": "A tragic accident pushes the powerful Sikandar to protect the less fortunate by standing up to corruption and greed — using any means necessary.\n\n",
+      "rating": 9.2,
+      "duration": "2h 55min",
+      "genre": "Crime, Drama",
+      "releaseDate": "2025-03-02"
+    },
+    {
+      "id": "3",
+      "title": "Singham Again",
+      "posterUrl": "https://media.themoviedb.org/t/p/original/2JbNkHg8m7LaBy61LyrnnlenaxY.jpg",
+      "description": "The cop universe expands with newer additions while the old ones return led by Bajirao Singham. Singham Again interweaves the mythological epic Ramayana's good vs evil narrative when his wife Avni Kamath gets abducted by Danger Lanka setting Bajirao and his gang of Sangram Bhalerao and Veer Sooryavanshi along with Satya and Shakti Shetty on a mission to rescue her..",
+      "rating": 9.0,
+      "duration": "2h 32min",
+      "genre": "Action, Crime, Drama",
+      "releaseDate": "2024-05-18"
+    },
+    {
+      "id": "4",
+      "title": "Crew",
+      "posterUrl": "https://media.themoviedb.org/t/p/original/8mnCtQngfhYt0W0BmkrCePutmvy.jpg",
+      "description": "Three ordinary air hostesses from Mumbai embark on a journey to pursue their dreams but find themselves caught up in unexpected misfortunes.",
+      "rating": 8.9,
+      "duration": "2h 34min",
+      "genre": "Crime, Drama",
+      "releaseDate": "2024-10-14"
+    },
+    {
+      "id": "5",
+      "title": "Murder Mubarak",
+      "posterUrl": "https://media.themoviedb.org/t/p/original/joU5VihgUvkhyPnhzxfjmWk32rd.jpg",
+      "description": "When a gym trainer is murdered at an elite Delhi club, a wily investigator unravels the sordid secrets of its ultrarich members to find the killer.",
+      "rating": 8.8,
+      "duration": "2h 22min",
+      "genre": "Drama, Crime",
+      "releaseDate": "2024-07-06"
+    },
+    {
+      "id": "6",
+      "title": "Pathan",
+      "posterUrl": "https://media.themoviedb.org/t/p/original/cQOuFy19m0B8kpui7enCthaI8rP.jpg",
+      "description": "A soldier caught by enemies and presumed dead comes back to complete his mission, accompanied by old companions and foes.",
+      "rating": 8.8,
+      "duration": "2h 28min",
+      "genre": "Action",
+      "releaseDate": "2023-07-16"
+    },
+    {
+      "id": "7",
+      "title": "Doctor G",
+      "posterUrl": "https://media.themoviedb.org/t/p/original/ojQbYD4pHKBrnxrG0FBdqGCHhlq.jpg",
+      "description": "Uday Gupta, a medical college student wanted to specialise in Orthopaedic, but is stuck in an all-female class of Gynaecology. Will he change his department, or will the department change him?",
+      "rating": 8.8,
+      "duration": "2h 19min",
+      "genre": "Comedy",
+      "releaseDate": "2022-10-15"
+    },
+    {
+      "id": "8",
+      "title": "Aiyaary",
+      "posterUrl": "https://media.themoviedb.org/t/p/original/1lfpxWPKRN9GOCdad5XhdxWuS3U.jpg",
+      "description": "An Indian Army officer is compelled to chase down his protege when the latter turns rogue and threatens to disrupt the country’s government and army.",
+      "rating": 8.7,
+      "duration": "2h 16min",
+      "genre": "Action",
+      "releaseDate": "2018-03-31"
+    },
+    {
+      "id": "9",
+      "title": "Hichki",
+      "posterUrl": "https://media.themoviedb.org/t/p/original/8t4euZR2w7Cfyjre8c6fKASlN8F.jpg",
+      "description": "Hichki presents a positive and inspiring story about a woman who turns her biggest weakness into her biggest strength.",
+      "rating": 8.6,
+      "duration": "2h 49min",
+      "genre": "Drama",
+      "releaseDate": "2019-11-07"
+    }
+  ]
+}
